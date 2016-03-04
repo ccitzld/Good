@@ -18,7 +18,10 @@ https://github.com/navasmdc/MaterialDesignLibrary#rectangle-button
 http://gank.io/post/560e15be2dca930e00da1083
 
 开源项目大全
-https://github.com/Trinea/android-open-project  
+https://github.com/Trinea/android-open-project 
+
+开源项目大全（不断更新）
+http://p.codekk.com/
 
 https://github.com/drakeet/Meizhi  
 
