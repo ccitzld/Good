@@ -1,4 +1,6 @@
-# Good
+# Good  
+
+git教程 http://www.runoob.com/w3cnote/git-guide.html
 
 UI控件大全
 https://github.com/wasabeef/awesome-android-ui 
