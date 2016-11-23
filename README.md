@@ -31,5 +31,7 @@ https://github.com/ReactiveX
 
 一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目 
 https://github.com/bboyfeiyu/android-tech-frontier  
-http://www.devtf.cn/ 
+http://www.devtf.cn/  
+android studio快捷键大全
+http://seniorzhai.github.io/2015/02/05/AndroidStudio%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB/
 
